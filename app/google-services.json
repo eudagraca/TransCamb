@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "386967247581",
+    "firebase_url": "https://transporte-cambine.firebaseio.com",
+    "project_id": "transporte-cambine",
+    "storage_bucket": "transporte-cambine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386967247581:android:4cf90a9f42d65a43",
+        "android_client_info": {
+          "package_name": "transcamb.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386967247581-cd27pf9mcs8mdms5j567hgffmg85c2rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "transcamb.com",
+            "certificate_hash": "0fe0652fc0b70554758a46022b30f0546585d7bf"
+          }
+        },
+        {
+          "client_id": "386967247581-vfsjq80i26ep7nm5udg7vjbcd94v4ifp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-3TDGye1BrHaF_fzjKyWeTgk4bY6yug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386967247581-vfsjq80i26ep7nm5udg7vjbcd94v4ifp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

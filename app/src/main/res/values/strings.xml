@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Trans Camb</string>
+    <string name="sign_in_cancelled">Acesso Cancelado</string>
+    <string name="no_internet_connection">Não há conexão com Internet</string>
+    <string name="unknown_error">Erro desconhecido</string>
+    <string name="sign_out_failed">Falha ao terminar a seccao</string>
+    <string name="sign_out">Terminar a sessão</string>
+    <string name="delete">Apagar</string>
+    <string name="delete_account_failed">Falha ao apagar a conta</string>
+    <string name="unknown_sign_in_response">Unknown sign in response</string>
+
+
+    <string name="google_maps_key">
+
+          resValue "string", "google_maps_key",
+          (project.findProperty("GOOGLE_MAPS_API_KEY") ?: "")
+    </string>
+    <string-array name="Estado">
+        <item>Passageiro</item>
+        <item>Motorista</item>
+    </string-array>
+
+</resources>
